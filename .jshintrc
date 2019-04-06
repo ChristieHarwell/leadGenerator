@@ -1,0 +1,11 @@
+{
+    "node": true,
+    "globals": {
+        "$": false,
+        "jQuery": false,
+        "angular": false
+    },
+    "esversion": 6
+}
+
+
